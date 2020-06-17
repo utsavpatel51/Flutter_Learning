@@ -1,16 +1,10 @@
-# learning07
+# learning05
 
-A new Flutter project.
+1. Used Stateless & Stateful widget
+2. Used Route to navigate page
+3. Learned about Tab and TextField
+4. Learned about Loading screen (Currently I have used fixed time for that because there is no data to fetch.)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Next Goal
+1. Fetch data from API
+2. Local storage
